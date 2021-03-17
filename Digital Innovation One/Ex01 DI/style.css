@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+    margin: 5px;
+    max-width: 100%;
+}
+
+.titulo{
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    padding: 1px;
+    border: solid white;
+    margin: 4px;
+    
+}
+
+.conteudo{
+    background-color: silver;
+    padding: 5px;
+    border: solid black;
+    margin: 4px;
+}
+
+.contatos{
+    color: white;
+    text-align: center;
+    background-color: black;
+    border: solid black;
+    margin: 4px;
+}
+
+.listaC{
+    background-color: silver;
+    padding: 5px;
+    border: solid black;
+    margin-right: 85%;
+    list-style-type: none;
+
+}
